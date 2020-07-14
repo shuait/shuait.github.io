@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Construction Management, University of Illinois at Urbana-champaign, 2020
+* Master in Computer Science, University of Illinois at Urbana-champaign, 2017
+* M.S. Civil and Environmental Engineering, Carnegie Mellon University, 2014
+* B.S. in Bridge Engineering, Changsha University of Science and Technology, 2013
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Intern, Data Science
+  * Autodesk Construction Solutions
+  * Duties included: product usage data mining and churn analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Computer Vision Algorithem Engineer Intern
+  * Alibaba Cloud
+  * Duties included: ET CityBrain traffic optimization project
+
+* Summer 2018: Embedded Intern
+  * Nvidia
+  * Duties included: Al smarty city project 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C++
+* Matlab
+* R
+* SQL
+* CUDA
 
 Publications
 ======
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of Automation in Construction, Journal of Computing in Civil Engineering
