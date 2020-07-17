@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Vision-Based Construction Worker Activity Analysis Informed by Body Posture"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+permalink: /publication/roberts2020worker
+excerpt: 'Introduces a novel deep learning– and vision-based activity analysis framework that estimates and tracks two-dimensional (2D) worker pose and outputs per-frame worker activity labels given input red-green-blue (RGB) video footage of a construction worker operation.'
+date: 2020-04-18
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CP.1943-5487.0000898'
+citation: 'Roberts, D., Torres Calderon, W., Tang, S., & Golparvar-Fard, M. (2020). Vision-Based Construction Worker Activity Analysis Informed by Body Posture. Journal of Computing in Civil Engineering, 34(4), 04020017.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here]([https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CP.1943-5487.0000898](https://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000898)
+
