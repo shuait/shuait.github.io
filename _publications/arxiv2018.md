@@ -1,7 +1,7 @@
 ---
 title: "Improved style transfer by respecting inter-layer correlations"
 collection: publications
-permalink: /publication/2018style
+permalink: /publication/tang2018style
 excerpt: 'This paper demonstrates that controlling inter-layer correlations yields visible improvements in style transfer methods. '
 date: 2018-01-05
 venue: 'Arxiv'
@@ -12,4 +12,3 @@ This paper demonstrates that controlling inter-layer correlations yields visible
 
 [Download paper here](https://arxiv.org/pdf/1801.01933.pdf)
 
-Recommended citation: Yeh, Mao-Chuang, and Shuai Tang. "Improved style transfer by respecting inter-layer correlations." arXiv preprint arXiv:1801.01933 (2018).
