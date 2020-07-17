@@ -10,5 +10,4 @@ citation: 'Roberts, D., Torres Calderon, W., Tang, S., & Golparvar-Fard, M. (202
 ---
 
 
-[Download paper here]([https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CP.1943-5487.0000898](https://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000898)
 
